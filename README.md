@@ -4,10 +4,9 @@ This is my sample project demonstrating Apple's new Combine Framework for the Na
 
 ## Resources
 
-[Apple's Combine Documentation](https://developer.apple.com/documentation/combine)
-
-[WWDC 2019 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722)
-[WWDC 2019 - Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721)
+* [Apple's Combine Documentation](https://developer.apple.com/documentation/combine)
+* [WWDC 2019 - Introducing Combine](https://developer.apple.com/videos/play/wwdc2019/722)
+* [WWDC 2019 - Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721)
 
 ## License
 
